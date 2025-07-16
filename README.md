@@ -1,5 +1,5 @@
 # Projeto para a clínica SOS Otorrino
-
+Um sistema interno completo para unificar todos os setores em um só lugar, melhorar a comunicação, facilitar processos do RH, Recepção, Telefonia, Contas médicas e faturamento, alinhamento as informações primordiais de cada um. Visando melhorar/suprir todas lacunas e gargalos de operação e comunicação.
 ## LOGIN
 <img width="1911" height="861" alt="image" src="https://github.com/user-attachments/assets/011ca5c2-c505-4284-a514-4c5bbb7c18c9" />
 
